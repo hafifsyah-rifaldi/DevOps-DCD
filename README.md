@@ -1,4 +1,7 @@
-# DevOps-DCD
+# DevOps-DCD Certificate
+
+- This repository written for reference and self-documentation purpose
+  ![certificate](Dasar_DevOps_Certificate.png)
 
 # Daftar Referensi
 
