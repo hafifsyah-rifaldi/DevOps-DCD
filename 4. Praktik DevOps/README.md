@@ -11,4 +11,4 @@ DevOps adalah gerakan yang merevolusi struktur organisasi dengan menyatukan tim 
 DevOps Pipeline (atau biasa disebut juga sebagai CI/CD Pipeline) merupakan serangkaian proses dan tools terotomatisasi yang memungkinkan Developer dan IT Operations untuk bekerja secara kohesif untuk men-_deploy_ kode ke lingkungan production.
 
 Berikut adalah gambar yang menunjukkan tahapan-tahapan dalam DevOps Pipeline.
-![flow](DevOps_Pipeline.png)
+![flow](DevOps_Pipeline.jpeg)
