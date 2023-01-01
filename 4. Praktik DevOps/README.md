@@ -12,3 +12,9 @@ DevOps Pipeline (atau biasa disebut juga sebagai CI/CD Pipeline) merupakan seran
 
 Berikut adalah gambar yang menunjukkan tahapan-tahapan dalam DevOps Pipeline.
 ![flow](DevOps_Pipeline.jpeg)
+
+# DevOps Tools
+
+Ketahuilah bahwa praktik DevOps sejatinya membutuhkan _tools_ agar penerapannya menjadi lebih mudah, konsisten, dan terprediksi.
+
+AWS adalah salah satu cloud provider yang menyediakan layanan dan tools untuk membantu kita dalam mempraktikkan DevOps di perusahaan. AWS memiliki rentetan DevOps tools yang bisa kita gunakan kapan saja dan di mana saja sesuai kebutuhan dengan hanya membayar melalui mekanisme _pay-as-you-go_ (bayar sesuai pemakaian).
